@@ -10,8 +10,7 @@
 The details are in the requirement.txt
 
 ## Dataset
-Following conference rules restricting external links and file size, we include only the METR-LA dataset in this submission.
-Dataset sources and auxiliary details are described in the submitted paper and appendix.
+Due to the dataset is large, we will upload it to google drive and baiduyun for sharing. The dataset will coming soon. Or you can download traffic data from STSM and weather data from ERA5.
 
 
 ## Train the model
