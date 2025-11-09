@@ -1,4 +1,9 @@
-## Here containing the models: GenCast-L and GenCast-H
+## This is official code for GenCast. 
+Good News! Our paper Generalising Traffic Forecasting to Regions without Traffic Observations has been accepted by AAAI26.
+This version is which submitted to AAAI for reviewing, we omit some datasets due to file size limitation. We will release remaining datasets and corresponding code soon.
+This code is based on our previous work STSM [STSM Code](https://github.com/suzy0223/STSM).
+Our full paper is available at [paper](https://arxiv.org/abs/2508.08947).
+
 
 ## Requirements
 -pytorch
