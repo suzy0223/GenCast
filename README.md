@@ -15,7 +15,10 @@ Our full paper is available at [paper](https://arxiv.org/abs/2508.08947).
 The details are in the requirement.txt
 
 ## Dataset
-Due to the dataset is large, we will upload it to google drive and baiduyun for sharing. The dataset will coming soon. Or you can download traffic data from STSM and weather data from ERA5.
+Google Drive: https://drive.google.com/drive/folders/1_imrTikGhIbZIyrRynG4bXhkaZA9xQgE?usp=share_link
+
+Baidu Drive: https://pan.baidu.com/s/1DtyDp4stCKQ_P-4nox1O8A 提取码: cast 
+Due to the dataset is large, we will upload it to google drive and baiduyun for sharing. Or you can download traffic data from STSM and weather data from ERA5.
 
 
 ## Train the model
