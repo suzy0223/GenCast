@@ -312,8 +312,6 @@ if __name__ == "__main__":
     look_back=args.look_back
     # remove frist time_len
     weather = weather[25-look_back:,:] 
-    # remove last 24 hours
-    weather = weather[:-24,:]
     # generate time window, 12 hours a window
     weather = seq2instance(weather, look_back)
     # repeat to shape (num_sample, 12, T , N , D), that means every hour repeat 12 times
