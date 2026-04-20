@@ -1,5 +1,22 @@
-## This is official code for GenCast. 
-Good News! Our paper Generalising Traffic Forecasting to Regions without Traffic Observations has been accepted by AAAI26.
+# GenCast: Traffic Forecasting for Unobserved Regions (official code)
+
+🚀 AAAI 2026 
+
+### What problem?
+Forecast traffic in regions WITHOUT sensors
+
+### Why hard?
+No historical observations → generalisation issue
+
+### What we do?
+- Physics-informed learning
+- Weather-traffic fusion
+- Spatial grouping
+
+### Result
+↓ error 3.1%, ↑ R² 125%
+
+### Quick start
 This code is based on our previous work STSM [STSM Code](https://github.com/suzy0223/STSM).
 Our full paper is available at [paper](https://arxiv.org/abs/2508.08947).
 
